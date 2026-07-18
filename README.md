@@ -45,22 +45,6 @@ I'm currently open to new opportunities as a Full-Stack Developer.
 
 ---
 
-### Featured Projects
-
-**[Escape the Code](https://escapethecode.cloud)** — Gamified JavaScript Learning Platform
-*Vue.js · Nuxt.js · Node.js · Express.js · TypeScript · Tailwind CSS · Pinia · Drizzle ORM · MySQL · Deno*
-A gamified platform with instructor-managed coding challenges, sandboxed code execution (isolated Deno processes with timeouts and memory limits), and an LLM-powered feedback pipeline (Llama 3.2) that generates real-time code-quality scores and actionable feedback.
-
-**CIT Capstone Repository** — AI-Powered Semantic Search
-*Python · FastAPI · React · TypeScript · Tailwind CSS · Zustand · MySQL*
-A semantic search engine over thousands of university capstone records (2013–present), using Sentence Transformers (all-MiniLM-L6-v2) embeddings and cosine similarity ranking for concept-based retrieval beyond keyword search.
-
-**Cirrus** — MERN Affiliate Marketplace *(Wayne Enterprise Solution Corporation internship)*
-*React · Node.js · MongoDB · Mongoose · TypeScript · JWT*
-Led architecture and UI decisions for a marketplace supporting 4 user roles, 100+ REST APIs, a backend deal state machine for workflow validation, and full JWT/OAuth authentication with role-based access control.
-
----
-
 ### GitHub Stats
 
 <p>
